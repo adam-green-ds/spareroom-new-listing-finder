@@ -1,5 +1,5 @@
 # Spareroom New Listing Finder
-Repeatedly check Spareroom search results for pre-defined searches. On a new result, there is a beep sound and the search results open in browser.
+Repeatedly check Spareroom search results for new listings on pre-defined searches. On a new result, there is a beep sound and the search results open in browser.
 
 Dependencies:
 - Python 3+
